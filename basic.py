@@ -1,3 +1,3 @@
-print("Print Gokul!")
+print("Gokul is new to GIT and GITHUB!")
 for i in range(1,11,1):
     print(i,end = ' ')
